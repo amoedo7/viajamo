@@ -103,6 +103,26 @@
         {
             "nombre": "Aquatianos",
             "descripcion": "Razas acu\u00e1ticas que viven en planetas con grandes oc\u00e9anos y mares, con una gran comprensi\u00f3n del agua y sus propiedades."
+        },
+        {
+            "nombre": "Oriones",
+            "descripcion": "Seres provenientes del sistema estelar de Ori\u00f3n, conocidos por su cultura avanzada y su habilidad para el viaje interestelar."
+        },
+        {
+            "nombre": "Navegantes del Espacio",
+            "descripcion": "Seres cuya naturaleza no se define f\u00edsicamente, pero son conocidos por sus habilidades para viajar a trav\u00e9s del espacio de manera interdimensional."
+        },
+        {
+            "nombre": "Siriusianos",
+            "descripcion": "Originarios de la estrella Sirio, se cree que estos seres acu\u00e1ticos son altamente avanzados y tienen una conexi\u00f3n fuerte con las fuerzas c\u00f3smicas."
+        },
+        {
+            "nombre": "Vegaianos",
+            "descripcion": "Seres de la estrella Vega, conocidos por su inteligencia y habilidades telep\u00e1ticas."
+        },
+        {
+            "nombre": "Cetians",
+            "descripcion": "Originarios de la estrella Tau Ceti, una civilizaci\u00f3n altamente avanzada tecnol\u00f3gicamente y con una cultura pac\u00edfica."
         }
     ]
 }
