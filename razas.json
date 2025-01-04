@@ -1,0 +1,80 @@
+{
+    "razas": [
+        {
+            "nombre": "Greys",
+            "descripcion": "Extraterrestres peque\u00f1os, de piel gris, cabezas grandes y ojos negros. Se les asocia con abducciones."
+        },
+        {
+            "nombre": "Reptilianos",
+            "descripcion": "Seres de aspecto reptiliano, conocidos por su inteligencia avanzada y su posible influencia en la humanidad."
+        },
+        {
+            "nombre": "N\u00f3rdicos",
+            "descripcion": "Seres altos, rubios, de aspecto humanoide, a menudo relacionados con visitas pac\u00edficas a la Tierra."
+        },
+        {
+            "nombre": "Pleyadianos",
+            "descripcion": "Extraterrestres de aspecto humano, originarios del sistema estelar de las Pl\u00e9yades, conocidos por su tecnolog\u00eda avanzada."
+        },
+        {
+            "nombre": "Anunnaki",
+            "descripcion": "Seres ancestrales que seg\u00fan algunas teor\u00edas crearon a la humanidad, con apariencia humanoide y tecnolog\u00edas superiores."
+        },
+        {
+            "nombre": "Grises Blancos",
+            "descripcion": "Variante de los Greys, pero de color blanco en lugar de gris, relacionados con contacto m\u00e1s benigno."
+        },
+        {
+            "nombre": "Reptilianos Alpha",
+            "descripcion": "Una subespecie de los Reptilianos que se cree tienen control sobre varios aspectos del gobierno mundial."
+        },
+        {
+            "nombre": "C\u00edclopes",
+            "descripcion": "Seres con un solo ojo en el centro de su frente, conocidos por su gran tama\u00f1o y fuerza."
+        },
+        {
+            "nombre": "Zeta Reticulanos",
+            "descripcion": "Originarios del sistema estelar Zeta Reticuli, asociados con los famosos Grises, en su mayor\u00eda descritos como seres peque\u00f1os y de piel gris."
+        },
+        {
+            "nombre": "Andromedanos",
+            "descripcion": "Extraterrestres que provienen de la galaxia de Andr\u00f3meda, con cuerpos humanoides y una inteligencia avanzada."
+        },
+        {
+            "nombre": "Lirianos",
+            "descripcion": "Seres provenientes de la constelaci\u00f3n de Leo, conocidos por su belleza y habilidades ps\u00edquicas."
+        },
+        {
+            "nombre": "Arcturianos",
+            "descripcion": "Seres de la estrella Arcturus, altamente avanzados espiritualmente, se dice que ayudan a la humanidad en su evoluci\u00f3n."
+        },
+        {
+            "nombre": "Sirianos",
+            "descripcion": "Seres originarios de la estrella Sirio, en su mayor\u00eda descritos como seres de agua o acu\u00e1ticos, altamente avanzados tecnol\u00f3gicamente."
+        },
+        {
+            "nombre": "Altairianos",
+            "descripcion": "Seres provenientes de la estrella Altair, en la constelaci\u00f3n de \u00c1guila, se dice que tienen contacto con la humanidad."
+        },
+        {
+            "nombre": "Orionianos",
+            "descripcion": "Extraterrestres originarios de la constelaci\u00f3n de Ori\u00f3n, se cree que tienen una estructura jer\u00e1rquica militar."
+        },
+        {
+            "nombre": "Alpha Centaurianos",
+            "descripcion": "Seres originarios de Alpha Centauri, con aspecto humanoide, conocidos por su inteligencia y por ayudar a la humanidad."
+        },
+        {
+            "nombre": "Lirios",
+            "descripcion": "Seres que habitan la constelaci\u00f3n de Lyra, conocidos por ser los antecesores de varias razas alien\u00edgenas."
+        },
+        {
+            "nombre": "Tau Cetians",
+            "descripcion": "Originarios de la estrella Tau Ceti, conocidos por ser avanzados tecnol\u00f3gicamente y tener una cultura pac\u00edfica."
+        },
+        {
+            "nombre": "Chitauri",
+            "descripcion": "Seres reptilianos de una especie altamente avanzada, relacionados con teor\u00edas sobre gobiernos ocultos y manipulaciones globales."
+        }
+    ]
+}

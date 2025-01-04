@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Descripción de la Raza</title>
+    <script>
+        // Función para cargar la descripción de la raza
+        function cargarDescripcion() {
+            const urlParams = new URLSearchParams(window.location.search);
+            const razaNombre = urlParams.get('raza');
+
+            // Fetch de razas.json
+            fetch('razas.json')
+                .then(response => response.json())
+                .then(data => {
+                    // Buscar la raza por nombre
+                    const raza = data.razas.find(r => r.nombre === razaNombre);
+                    if (raza) {
+                        document.getElementById("descripcion").innerHTML = `
+                            <h2>${raza.nombre}</h2>
+                            <p>${raza.descripcion}</p>
+                        `;
+                    } else {
+                        document.getElementById("descripcion").innerHTML = `<p>No se encontró la raza.</p>`;
+                    }
+                });
+        }
+    </script>
+</head>
+<body onload="cargarDescripcion()">
+    <div id="descripcion">
+        <!-- Descripción de la raza se cargará aquí -->
+    </div>
+</body>
+</html>
