@@ -127,6 +127,94 @@
         {
             "nombre": "Grises",
             "descripcion": "Extraterrestres peque\u00f1os, de piel gris, cabezas grandes y ojos negros. Se les asocia con abducciones y experimentos en seres humanos. Aunque su apariencia ha generado miedo, algunos creen que su prop\u00f3sito es ayudar a la humanidad a evolucionar hacia un estado m\u00e1s avanzado."
+        },
+        {
+            "nombre": "Veganianos",
+            "descripcion": "Originarios del sistema estelar Vega, en la constelaci\u00f3n de Lyra, los Veganianos son conocidos por su sabidur\u00eda avanzada y su profundo respeto por la vida en todas sus formas. Son una raza altamente espiritual que ha alcanzado la trascendencia a trav\u00e9s de la meditaci\u00f3n y la conexi\u00f3n con el universo. Su civilizaci\u00f3n es muy pac\u00edfica, y sus habilidades ps\u00edquicas y telep\u00e1ticas les permiten comunicarse sin palabras. Los Veganianos tienen una fuerte afinidad con la naturaleza y la armon\u00eda c\u00f3smica."
+        },
+        {
+            "nombre": "Betelgeuseanos",
+            "descripcion": "Seres originarios de la estrella Betelgeuse, en la constelaci\u00f3n de Ori\u00f3n. Tienen una apariencia humanoide, pero sus cuerpos son m\u00e1s altos y musculosos que los humanos. Se dice que su civilizaci\u00f3n es muy avanzada tecnol\u00f3gicamente y se centra en la investigaci\u00f3n cient\u00edfica y el desarrollo de tecnolog\u00edas de energ\u00eda limpia. Los Betelgeuseanos son conocidos por su habilidad para manipular la energ\u00eda gravitacional y son considerados maestros de la f\u00edsica cu\u00e1ntica."
+        },
+        {
+            "nombre": "Carians",
+            "descripcion": "Seres originarios de la constelaci\u00f3n de Carina, los Carians son conocidos por su aspecto aviar, con alas grandes y plumas que les permiten volar. Son una raza altamente espiritual, con un fuerte enfoque en la meditaci\u00f3n y la conexi\u00f3n con los reinos superiores. Los Carians tienen una civilizaci\u00f3n basada en la armon\u00eda y la paz, y se especializan en las artes curativas y la manipulaci\u00f3n de la energ\u00eda c\u00f3smica. Su tecnolog\u00eda est\u00e1 muy relacionada con la biolog\u00eda y la gen\u00e9tica."
+        },
+        {
+            "nombre": "Mantis",
+            "descripcion": "Seres de aspecto insectoide, conocidos por su gran inteligencia y habilidades ps\u00edquicas. Los Mantis provienen de una regi\u00f3n del espacio distante, y se cree que son una de las razas m\u00e1s antiguas y avanzadas del universo. Tienen una estructura social jer\u00e1rquica muy compleja, y su civilizaci\u00f3n est\u00e1 basada en la ciencia, la filosof\u00eda y la espiritualidad. Los Mantis son conocidos por sus capacidades telep\u00e1ticas y por su habilidad para manipular el tiempo y el espacio."
+        },
+        {
+            "nombre": "Vulcanianos",
+            "descripcion": "Seres de aspecto humanoide, originarios del planeta Vulcano, situado en el sistema estelar 40 Eridani. Los Vulcanianos son conocidos por su l\u00f3gica y control emocional, siendo una de las razas m\u00e1s racionales del universo. Su sociedad est\u00e1 basada en el estudio y la pr\u00e1ctica de la l\u00f3gica y las ciencias, y su filosof\u00eda promueve el control de las emociones para alcanzar un mayor conocimiento y comprensi\u00f3n. Son famosos por sus avances tecnol\u00f3gicos y su capacidad para viajar grandes distancias a trav\u00e9s del espacio."
+        },
+        {
+            "nombre": "Pleiadianos Oscuros",
+            "descripcion": "Una rama separada de los Pleiadianos, los Pleiadianos Oscuros tienen un enfoque m\u00e1s sombr\u00edo hacia la evoluci\u00f3n de otras especies. Aunque poseen habilidades similares a las de los Pleiadianos originales, los Pleiadianos Oscuros son conocidos por su manipulaci\u00f3n de las energ\u00edas oscuras y su inter\u00e9s en el control de la conciencia. Se cree que tienen una agenda oculta para influir en las decisiones de los seres humanos, aunque su verdadero prop\u00f3sito sigue siendo un misterio."
+        },
+        {
+            "nombre": "Aldebaranianos",
+            "descripcion": "Originarios de la estrella Aldebar\u00e1n en la constelaci\u00f3n de Tauro, los Aldebaranianos son una raza de aspecto humanoide, conocidos por su enorme tama\u00f1o y fuerza f\u00edsica. Son muy avanzados en el campo de la ingenier\u00eda gen\u00e9tica y la biotecnolog\u00eda, y tienen una gran habilidad para modificar organismos a nivel celular. Su sociedad est\u00e1 muy centrada en el progreso tecnol\u00f3gico y la investigaci\u00f3n cient\u00edfica, y se cree que han tenido un contacto frecuente con otras razas extraterrestres."
+        },
+        {
+            "nombre": "Epsilon Eridani",
+            "descripcion": "Seres originarios de la estrella Epsilon Eridani, estos seres son conocidos por su habilidad para manipular las fuerzas electromagn\u00e9ticas y gravitacionales. Su civilizaci\u00f3n est\u00e1 altamente avanzada en el campo de la f\u00edsica y la ingenier\u00eda energ\u00e9tica, y se especializan en la creaci\u00f3n de tecnolog\u00eda capaz de alterar las leyes fundamentales del universo. Los Epsilon Eridani son una raza muy introspectiva, buscando constantemente el conocimiento y la comprensi\u00f3n de las leyes c\u00f3smicas."
+        },
+        {
+            "nombre": "Draconianos",
+            "descripcion": "Seres de aspecto reptiliano, los Draconianos provienen de un sistema estelar distante, y se cree que son los descendientes de una antigua raza que gobern\u00f3 vastas \u00e1reas del universo. Son conocidos por su agresividad y su deseo de expandir su dominio sobre otros mundos. Los Draconianos son muy inteligentes y poseen una tecnolog\u00eda muy avanzada, que incluye armas de energ\u00eda y sistemas de control mental. Aunque su naturaleza es beligerante, tambi\u00e9n tienen una estructura social compleja y altamente jer\u00e1rquica."
+        },
+        {
+            "nombre": "Cetusianos",
+            "descripcion": "Originarios de la constelaci\u00f3n de Cetus, los Cetusianos son una raza altamente evolucionada de seres acu\u00e1ticos. Se dice que tienen una apariencia similar a los delfines o ballenas, con cuerpos adaptados para vivir en ambientes marinos. Los Cetusianos son conocidos por su inteligencia emocional y su capacidad para comunicarse telep\u00e1ticamente con otras especies. Tienen una cultura muy pac\u00edfica y se enfocan en la preservaci\u00f3n de la vida y el equilibrio ecol\u00f3gico en su entorno marino."
+        },
+        {
+            "nombre": "Antareanos",
+            "descripcion": "Seres originarios de la estrella Antares, en la constelaci\u00f3n de Escorpio, los Antareanos son conocidos por su apariencia humanoide, pero con caracter\u00edsticas distintivas, como ojos de color rojo brillante. Son una raza avanzada en t\u00e9rminos de tecnolog\u00eda y conocimientos cient\u00edficos, y se especializan en la manipulaci\u00f3n de energ\u00edas c\u00f3smicas y dimensionales. Los Antareanos son conocidos por su capacidad para interactuar con otras dimensiones y por sus habilidades en la creaci\u00f3n de portales interdimensionales."
+        },
+        {
+            "nombre": "Tau Cetianos",
+            "descripcion": "Originarios de la estrella Tau Ceti, en la constelaci\u00f3n de la Ballena, los Tau Cetianos son conocidos por su avanzado conocimiento de la biotecnolog\u00eda y la ingenier\u00eda gen\u00e9tica. Se cree que tienen la capacidad de modificar y mejorar organismos a nivel celular, creando nuevas formas de vida adaptadas a sus necesidades. Su sociedad est\u00e1 altamente organizada, y su enfoque principal es la evoluci\u00f3n espiritual y la mejora de su especie a trav\u00e9s del conocimiento y la tecnolog\u00eda. Son una raza pac\u00edfica, aunque tambi\u00e9n son muy protectores de su territorio."
+        },
+        {
+            "nombre": "Fomalhautianos",
+            "descripcion": "Seres que provienen de la estrella Fomalhaut, en la constelaci\u00f3n de Piscis Austrinus. Los Fomalhautianos son conocidos por su apariencia humanoide, con caracter\u00edsticas faciales algo m\u00e1s refinadas y una presencia energ\u00e9tica que puede parecer et\u00e9rea. Su civilizaci\u00f3n est\u00e1 enfocada en la armon\u00eda y el equilibrio energ\u00e9tico, utilizando tecnolog\u00edas avanzadas para manipular el flujo de energ\u00edas naturales y c\u00f3smicas. Son conocidos por su capacidad para trascender las limitaciones f\u00edsicas y operar a nivel energ\u00e9tico."
+        },
+        {
+            "nombre": "Lyranos",
+            "descripcion": "Originarios de la constelaci\u00f3n de Lyra, los Lyranos son una raza altamente espiritual y profundamente conectada con la naturaleza y el cosmos. Se dice que tienen una apariencia humana, aunque con rasgos m\u00e1s elegantes y delicados, como una piel suave y ojos grandes. Su civilizaci\u00f3n se basa en la conexi\u00f3n con el \"todo\" y el desarrollo de la conciencia universal. Los Lyranos son conocidos por su m\u00fasica y artes, que est\u00e1n profundamente conectadas con su filosof\u00eda espiritual y su visi\u00f3n del universo."
+        },
+        {
+            "nombre": "Rigelianos",
+            "descripcion": "Seres originarios de la estrella Rigel, en la constelaci\u00f3n de Ori\u00f3n. Los Rigelianos son una raza muy avanzada tecnol\u00f3gicamente y se especializan en la creaci\u00f3n de naves espaciales y armamentos de energ\u00eda. Son conocidos por su fortaleza y habilidad para sobrevivir en ambientes hostiles. Aunque en sus primeros d\u00edas fueron guerreros, han evolucionado hacia una civilizaci\u00f3n m\u00e1s pac\u00edfica, centrada en el comercio intergal\u00e1ctico y el intercambio de conocimientos."
+        },
+        {
+            "nombre": "Bellatrixianos",
+            "descripcion": "Originarios de la estrella Bellatrix en la constelaci\u00f3n de Ori\u00f3n, los Bellatrixianos son una raza que se caracteriza por su gran fortaleza f\u00edsica y mental. Tienen una apariencia humanoide, pero sus cuerpos son m\u00e1s grandes y musculosos que los humanos, con piel de tonalidades oscuras. Son conocidos por ser grandes guerreros, pero tambi\u00e9n tienen una cultura profunda basada en la filosof\u00eda, el arte y la m\u00fasica. Los Bellatrixianos valoran el honor y el respeto, y se cree que poseen un sistema de creencias que gira en torno a la superaci\u00f3n personal y la trascendencia espiritual."
+        },
+        {
+            "nombre": "Procyonianos",
+            "descripcion": "Originarios de la estrella Procyon, en la constelaci\u00f3n del Can Mayor, los Procyonianos son una raza que se caracteriza por su aspecto humanoide, aunque con algunas diferencias notables, como una piel de tonalidad plateada y ojos luminosos. Son conocidos por su gran inteligencia y habilidades en la manipulaci\u00f3n de energ\u00eda y tecnolog\u00eda. La sociedad Procyoniana valora la investigaci\u00f3n cient\u00edfica y la exploraci\u00f3n del cosmos, y tienen una profunda comprensi\u00f3n de la f\u00edsica cu\u00e1ntica y las leyes que rigen el universo."
+        },
+        {
+            "nombre": "Draconianos N\u00f3rdicos",
+            "descripcion": "Los Draconianos N\u00f3rdicos provienen de una variante del sistema estelar de Alfa Draconis, en la constelaci\u00f3n del Drag\u00f3n. Son conocidos por su tama\u00f1o imponente y su fortaleza f\u00edsica. Tienen una estructura social jer\u00e1rquica muy estricta y son conocidos por sus habilidades guerreras. Aunque su naturaleza parece ser agresiva, tambi\u00e9n se cree que tienen un gran sentido del honor y la lealtad hacia su gente. La civilizaci\u00f3n Draconiana N\u00f3rdica est\u00e1 enfocada en el dominio de las fuerzas naturales y la manipulaci\u00f3n de energ\u00edas para su propio beneficio."
+        },
+        {
+            "nombre": "Cascos",
+            "descripcion": "Los Cascos son una raza alien\u00edgena originaria de un sistema estelar lejano, que se caracteriza por su altura y su apariencia de \"casco\" en lugar de una cabeza tradicional. Estos seres tienen una estructura f\u00edsica \u00fanica, con cuerpos delgados y altos, y una cabeza que se asemeja a un casco met\u00e1lico, sin ojos ni boca visibles. Se dice que los Cascos tienen una conexi\u00f3n profunda con la energ\u00eda c\u00f3smica y que utilizan sus habilidades ps\u00edquicas para interactuar con otras formas de vida. Son conocidos por su sabidur\u00eda y por su capacidad para predecir eventos c\u00f3smicos, y se cree que juegan un papel clave en el equilibrio universal."
+        },
+        {
+            "nombre": "Navegantes",
+            "descripcion": "Los Navegantes son una raza de seres interdimensionales capaces de viajar a trav\u00e9s de los planos de existencia. Son descritos como entidades et\u00e9reas, sin forma f\u00edsica definida, que existen en un estado de energ\u00eda pura. Los Navegantes tienen la capacidad de influir en las leyes del tiempo y el espacio, y se dice que son responsables de la creaci\u00f3n de las rutas c\u00f3smicas que conectan diferentes dimensiones y universos. Aunque no tienen una forma f\u00edsica concreta, los Navegantes son capaces de interactuar con seres de otras dimensiones, gui\u00e1ndolos a trav\u00e9s de los peligros del multiverso. Se cree que los Navegantes est\u00e1n destinados a ayudar a las civilizaciones avanzadas a trascender su forma f\u00edsica y alcanzar un estado de existencia superior."
+        },
+        {
+            "nombre": "Grises de Zeta Reticuli",
+            "descripcion": "Los Grises de Zeta Reticuli son una raza de extraterrestres originarios del sistema estelar Zeta Reticuli, que se cree est\u00e1 ubicado a unos 39.3 a\u00f1os luz de la Tierra. Se caracterizan por su tama\u00f1o peque\u00f1o, de aproximadamente 1.20 metros de altura, con piel gris y grandes ojos negros. Son conocidos por su gran inteligencia y por su capacidad para manipular la gen\u00e9tica. Los Grises de Zeta Reticuli han sido ampliamente reportados en encuentros cercanos, y se cree que tienen un inter\u00e9s particular en los seres humanos, llevando a cabo abducciones para estudiar y experimentar con la gen\u00e9tica humana."
+        },
+        {
+            "nombre": "Reptilianos de Alpha",
+            "descripcion": "Los Reptilianos de Alpha son una subespecie de los Reptilianos, conocidos por su gran inteligencia y habilidades t\u00e1cticas. Se cree que estos seres tienen una influencia importante en la pol\u00edtica intergal\u00e1ctica y han estado involucrados en numerosos conflictos a lo largo de la historia. Los Reptilianos de Alpha tienen una apariencia similar a los reptiles, con piel escamosa y ojos amarillos o rojos. Se dice que son extremadamente astutos y calculadores, y que tienen un control casi absoluto sobre sus territorios. Aunque suelen operar en las sombras, se cree que tienen una fuerte presencia en los gobiernos y las organizaciones poderosas de varias galaxias."
         }
     ]
 }
