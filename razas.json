@@ -75,6 +75,34 @@
         {
             "nombre": "Chitauri",
             "descripcion": "Seres reptilianos de una especie altamente avanzada, relacionados con teor\u00edas sobre gobiernos ocultos y manipulaciones globales."
+        },
+        {
+            "nombre": "Lupinos",
+            "descripcion": "Razas caninas que habitan en diversos planetas, conocidos por su fuerza y lealtad a otras razas."
+        },
+        {
+            "nombre": "Vega",
+            "descripcion": "Originarios de la estrella Vega en la constelaci\u00f3n de Lyra, conocidos por su avanzada tecnolog\u00eda y sistemas de comunicaci\u00f3n."
+        },
+        {
+            "nombre": "Bovinos",
+            "descripcion": "Seres de aspecto similar a los toros, conocidos por su gran fuerza y organizaci\u00f3n social."
+        },
+        {
+            "nombre": "Serpiente Celestial",
+            "descripcion": "Seres reptilianos con habilidades avanzadas para manipular energ\u00edas c\u00f3smicas y mentes."
+        },
+        {
+            "nombre": "Venusianos",
+            "descripcion": "Habitantes del planeta Venus, en su mayor\u00eda descritos como seres con grandes habilidades ps\u00edquicas y control mental."
+        },
+        {
+            "nombre": "Gryphons",
+            "descripcion": "Seres h\u00edbridos con el cuerpo de un le\u00f3n y cabeza de \u00e1guila, conocidos por su fuerza y agilidad."
+        },
+        {
+            "nombre": "Aquatianos",
+            "descripcion": "Razas acu\u00e1ticas que viven en planetas con grandes oc\u00e9anos y mares, con una gran comprensi\u00f3n del agua y sus propiedades."
         }
     ]
 }
