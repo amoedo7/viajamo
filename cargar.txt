@@ -1,19 +1,22 @@
-Greys:Extraterrestres pequeños, de piel gris, cabezas grandes y ojos negros. Se les asocia con abducciones.
-Reptilianos:Seres de aspecto reptiliano, conocidos por su inteligencia avanzada y su posible influencia en la humanidad.
-Nórdicos:Seres altos, rubios, de aspecto humanoide, a menudo relacionados con visitas pacíficas a la Tierra.
-Pleyadianos:Extraterrestres de aspecto humano, originarios del sistema estelar de las Pléyades, conocidos por su tecnología avanzada.
-Anunnaki:Seres ancestrales que según algunas teorías crearon a la humanidad, con apariencia humanoide y tecnologías superiores.
-Grises Blancos:Variante de los Greys, pero de color blanco en lugar de gris, relacionados con contacto más benigno.
-Reptilianos Alpha:Una subespecie de los Reptilianos que se cree tienen control sobre varios aspectos del gobierno mundial.
-Cíclopes:Seres con un solo ojo en el centro de su frente, conocidos por su gran tamaño y fuerza.
-Zeta Reticulanos:Originarios del sistema estelar Zeta Reticuli, asociados con los famosos Grises, en su mayoría descritos como seres pequeños y de piel gris.
-Andromedanos:Extraterrestres que provienen de la galaxia de Andrómeda, con cuerpos humanoides y una inteligencia avanzada.
-Lirianos:Seres provenientes de la constelación de Leo, conocidos por su belleza y habilidades psíquicas.
-Arcturianos:Seres de la estrella Arcturus, altamente avanzados espiritualmente, se dice que ayudan a la humanidad en su evolución.
-Sirianos:Seres originarios de la estrella Sirio, en su mayoría descritos como seres de agua o acuáticos, altamente avanzados tecnológicamente.
-Altairianos:Seres provenientes de la estrella Altair, en la constelación de Águila, se dice que tienen contacto con la humanidad.
-Orionianos:Extraterrestres originarios de la constelación de Orión, se cree que tienen una estructura jerárquica militar.
-Alpha Centaurianos:Seres originarios de Alpha Centauri, con aspecto humanoide, conocidos por su inteligencia y por ayudar a la humanidad.
-Lirios:Seres que habitan la constelación de Lyra, conocidos por ser los antecesores de varias razas alienígenas.
-Tau Cetians:Originarios de la estrella Tau Ceti, conocidos por ser avanzados tecnológicamente y tener una cultura pacífica.
-Chitauri:Seres reptilianos de una especie altamente avanzada, relacionados con teorías sobre gobiernos ocultos y manipulaciones globales.
+
+
+
+Greys: Extraterrestres pequeños, de piel gris, cabezas grandes y ojos negros.
+Reptilianos: Seres de aspecto reptiliano, conocidos por su inteligencia avanzada y su posible influencia en la humanidad.
+Nórdicos: Seres altos, rubios, de aspecto humanoide, a menudo relacionados con visitas pacíficas a la Tierra.
+Pleyadianos: Extraterrestres de aspecto humano, originarios del sistema estelar de las Pléyades, conocidos por su tecnología avanzada.
+Anunnaki: Seres ancestrales que según algunas teorías crearon a la humanidad, con apariencia humanoide y tecnologías superiores.
+Grises Blancos: Variante de los Greys, pero de color blanco en lugar de gris, relacionados con contacto más benigno.
+Reptilianos Alpha: Una subespecie de los Reptilianos que se cree tienen control sobre varios aspectos del gobierno mundial.
+Cíclopes: Seres con un solo ojo en el centro de su frente, conocidos por su gran tamaño y fuerza.
+Zeta Reticulanos: Originarios del sistema estelar Zeta Reticuli, asociados con los famosos Grises, en su mayoría descritos como seres pequeños y de piel gris.
+Andromedanos: Extraterrestres que provienen de la galaxia de Andrómeda, con cuerpos humanoides y una inteligencia avanzada.
+Lirianos: Seres provenientes de la constelación de Leo, conocidos por su belleza y habilidades psíquicas.
+Arcturianos: Seres de la estrella Arcturus, altamente avanzados espiritualmente, se dice que ayudan a la humanidad en su evolución.
+Sirianos: Seres originarios de la estrella Sirio, en su mayoría descritos como seres de agua o acuáticos, altamente avanzados tecnológicamente.
+Altairianos: Seres provenientes de la estrella Altair, en la constelación de Águila, se dice que tienen contacto con la humanidad.
+Orionianos: Extraterrestres originarios de la constelación de Orión, se cree que tienen una estructura jerárquica militar.
+Alpha Centaurianos: Seres originarios de Alpha Centauri, con aspecto humanoide, conocidos por su inteligencia y por ayudar a la humanidad.
+Lirios: Seres que habitan la constelación de Lyra, conocidos por ser los antecesores de varias razas alienígenas.
+Tau Cetians: Originarios de la estrella Tau Ceti, conocidos por ser avanzados tecnológicamente y tener una cultura pacífica.
+Chitauri: Seres reptilianos de una especie altamente avanzada, relacionados con teorías sobre gobiernos ocultos y manipulaciones globales.
