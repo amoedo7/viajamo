@@ -1,5 +1,5 @@
 
-    1. Implementar validación segura para la clave privada.
-    2. Añadir funcionalidad para realizar transacciones o solucionar problemas de billeteras.
-    3. Asegurarse de que las claves no se almacenen en texto plano.
+    # Todo para la página de claves
+    1. Implementar función para encriptar la clave antes de almacenarla
+    2. Crear un sistema de autenticación para asegurar el acceso
     

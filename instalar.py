@@ -1,16 +1,23 @@
+# Crear los archivos necesarios para la página
+
+# Crear index.html
 def crear_index_html():
     html_content = '''
-    <html>
-    <head><title>Gestión de Billetera Cripto</title></head>
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ingreso de clave privada</title>
+    </head>
     <body>
-        <h1>Introduce tu Frase Semilla o Clave Privada</h1>
-        <form id="walletForm">
-            <label for="clave">Frase Semilla o Clave Privada:</label><br>
-            <input type="text" id="clave" name="clave" required><br><br>
-            <button type="submit">Procesar</button>
+        <h1>Ingrese su clave privada</h1>
+        <form id="claveForm">
+            <input type="password" id="clavePrivada" placeholder="Ingrese su clave privada" required>
+            <button type="submit">Guardar</button>
         </form>
-        <p id="resultado"></p>
-        <script src="script.js"></script>
+
+        <script src="razas.js"></script>
     </body>
     </html>
     '''
@@ -18,50 +25,59 @@ def crear_index_html():
         file.write(html_content)
     print("Archivo 'index.html' creado.")
 
-def crear_script_js():
+# Crear razas.js (para manejar el almacenamiento de la clave)
+def crear_razas_js():
     js_content = '''
-    document.getElementById("walletForm").addEventListener("submit", function(event){
-        event.preventDefault();  // Evitar el envío del formulario
-        const clave = document.getElementById("clave").value;
+    document.getElementById('claveForm').addEventListener('submit', function(e) {
+        e.preventDefault();  // Evitar que el formulario se envíe
+
+        const clavePrivada = document.getElementById('clavePrivada').value;
         
-        if (clave) {
-            // Aquí iría el proceso para validar o usar la clave
-            document.getElementById("resultado").textContent = "Frase Semilla o Clave Privada ingresada: " + clave;
+        if (clavePrivada) {
+            // Almacenamos la clave de forma temporal en el localStorage
+            localStorage.setItem('clavePrivada', clavePrivada);
+            alert("Clave privada almacenada temporalmente.");
         } else {
-            document.getElementById("resultado").textContent = "Por favor ingresa una frase semilla o clave privada.";
+            alert("Por favor ingrese una clave.");
         }
     });
     '''
-    with open('script.js', 'w') as file:
+    with open('razas.js', 'w') as file:
         file.write(js_content)
-    print("Archivo 'script.js' creado.")
+    print("Archivo 'razas.js' creado.")
 
-def crear_config_txt():
-    config_content = '''
-    [configuración]
-    clave_secreta = "Tu_clave_secreta_aquí"
-    '''
-    with open('config.txt', 'w') as file:
-        file.write(config_content)
-    print("Archivo 'config.txt' creado.")
-
+# Crear un archivo de tareas pendientes (todo.txt)
 def crear_todo_txt():
     todo_content = '''
-    1. Implementar validación segura para la clave privada.
-    2. Añadir funcionalidad para realizar transacciones o solucionar problemas de billeteras.
-    3. Asegurarse de que las claves no se almacenen en texto plano.
+    # Todo para la página de claves
+    1. Implementar función para encriptar la clave antes de almacenarla
+    2. Crear un sistema de autenticación para asegurar el acceso
     '''
     with open('todo.txt', 'w') as file:
         file.write(todo_content)
     print("Archivo 'todo.txt' creado.")
 
+# Crear el archivo de configuración
+def crear_config():
+    config_content = '''
+    [configuración]
+    api_key = "tu_clave_api_aquí"
+    base_url = "https://api.coindesk.com/v1/"
+    '''
+    with open('config.txt', 'w') as file:
+        file.write(config_content)
+    print("Archivo 'config.txt' creado.")
+
+# Función principal que ejecuta la instalación
 def instalar():
     # Crear los archivos necesarios
     crear_index_html()
-    crear_script_js()
-    crear_config_txt()
+    crear_razas_js()
     crear_todo_txt()
+    crear_config()
+    
     print("Instalación completada con éxito.")
 
+# Ejecutar la instalación si es el script principal
 if __name__ == "__main__":
     instalar()

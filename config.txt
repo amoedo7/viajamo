@@ -1,4 +1,5 @@
 
     [configuración]
-    clave_secreta = "Tu_clave_secreta_aquí"
+    api_key = "tu_clave_api_aquí"
+    base_url = "https://api.coindesk.com/v1/"
     

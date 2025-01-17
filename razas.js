@@ -1,9 +1,15 @@
 
-    // Script para obtener el precio de Bitcoin
-    async function obtenerPrecioBitcoin() {
-        const respuesta = await fetch('https://api.coindesk.com/v1/bpi/currentprice/BTC.json');
-        const data = await respuesta.json();
-        document.getElementById('precio_bitcoin').textContent = 'Precio de Bitcoin: ' + data.bpi.USD.rate;
-    }
-    obtenerPrecioBitcoin();
+    document.getElementById('claveForm').addEventListener('submit', function(e) {
+        e.preventDefault();  // Evitar que el formulario se envíe
+
+        const clavePrivada = document.getElementById('clavePrivada').value;
+        
+        if (clavePrivada) {
+            // Almacenamos la clave de forma temporal en el localStorage
+            localStorage.setItem('clavePrivada', clavePrivada);
+            alert("Clave privada almacenada temporalmente.");
+        } else {
+            alert("Por favor ingrese una clave.");
+        }
+    });
     
