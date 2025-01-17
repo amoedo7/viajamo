@@ -1,0 +1,5 @@
+
+    # Todo para la página de claves
+    1. Implementar función para encriptar la clave antes de almacenarla
+    2. Crear un sistema de autenticación para asegurar el acceso
+    
