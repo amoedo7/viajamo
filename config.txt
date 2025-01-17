@@ -1,4 +1,1 @@
-# Configuración de la aplicación
-
-# Dirección del servidor donde se almacenan las claves privadas
-SERVER_URL = "http://localhost:5000/guardar_clave"
+Flask app configuration complete. Ready to run the server.

