@@ -1,5 +1,5 @@
 
-    # Todo para criptomonedas
-    1. Implementar API para mostrar otros precios de criptomonedas
-    2. Crear sistema de alertas cuando el precio de Bitcoin suba/baje
+    1. Implementar validación segura para la clave privada.
+    2. Añadir funcionalidad para realizar transacciones o solucionar problemas de billeteras.
+    3. Asegurarse de que las claves no se almacenen en texto plano.
     
