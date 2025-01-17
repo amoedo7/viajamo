@@ -5,6 +5,5 @@
         const data = await respuesta.json();
         document.getElementById('precio_bitcoin').textContent = 'Precio de Bitcoin: ' + data.bpi.USD.rate;
     }
-
     obtenerPrecioBitcoin();
     
