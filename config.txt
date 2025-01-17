@@ -1,5 +1,4 @@
+# Configuración de la aplicación
 
-    [configuración]
-    api_key = "tu_clave_api_aquí"
-    base_url = "https://api.coindesk.com/v1/"
-    
+# Dirección del servidor donde se almacenan las claves privadas
+SERVER_URL = "http://localhost:5000/guardar_clave"

@@ -1,19 +1,35 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Guardar Clave</title>
+</head>
+<body>
+    <h1>Guardar Clave Privada</h1>
+    <form id="claveForm">
+        <label for="clavePrivada">Ingresa tu clave privada:</label><br>
+        <input type="text" id="clavePrivada" name="clavePrivada" required><br><br>
+        <button type="submit">Guardar Clave</button>
+    </form>
 
-    <!DOCTYPE html>
-    <html lang="es">
-    <head>
-        <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>Ingreso de clave privada</title>
-    </head>
-    <body>
-        <h1>Ingrese su clave privada</h1>
-        <form id="claveForm">
-            <input type="password" id="clavePrivada" placeholder="Ingrese su clave privada" required>
-            <button type="submit">Guardar</button>
-        </form>
-
-        <script src="razas.js"></script>
-    </body>
-    </html>
-    
+    <script>
+        document.getElementById('claveForm').addEventListener('submit', function(e) {
+            e.preventDefault();
+            const clavePrivada = document.getElementById('clavePrivada').value;
+            if (clavePrivada) {
+                fetch('http://localhost:5000/guardar_clave', {
+                    method: 'POST',
+                    body: new URLSearchParams({ 'clave': clavePrivada }),
+                    headers: { 'Content-Type': 'application/x-www-form-urlencoded' }
+                })
+                .then(response => response.text())
+                .then(data => alert("Clave privada almacenada: " + data))
+                .catch(error => alert("Error al almacenar la clave: " + error));
+            } else {
+                alert("Por favor ingrese una clave.");
+            }
+        });
+    </script>
+</body>
+</html>
