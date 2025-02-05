@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Apostar - Apuestas Rápidas</title>
+</head>
+<body>
+  <h1>Detalles del Deal</h1>
+  <div id="dealInfo"></div>
+  <br>
+  <button id="apuestaAFavor">Apostar a Favor</button>
+  <button id="apuestaEnContra">Apostar en Contra</button>
+
+  <script>
+    function getQueryParams() {
+      const params = {};
+      const search = window.location.search.substring(1);
+      if (search) {
+        search.split('&').forEach(function(part) {
+          const item = part.split('=');
+          params[decodeURIComponent(item[0])] = decodeURIComponent(item[1]);
+        });
+      }
+      return params;
+    }
+
+    const params = getQueryParams();
+    const jugador = params.jugador || "Desconocido";
+    const monto = params.monto || "0";
+
+    document.getElementById('dealInfo').innerHTML = `<p>Jugador: ${jugador}</p><p>Monto: ${monto}</p>`;
+
+    document.getElementById('apuestaAFavor').addEventListener('click', function() {
+      alert(`Has apostado a favor del deal de ${jugador} con monto ${monto}.`);
+    });
+
+    document.getElementById('apuestaEnContra').addEventListener('click', function() {
+      alert(`Has apostado en contra del deal de ${jugador} con monto ${monto}.`);
+    });
+  </script>
+</body>
+</html>
